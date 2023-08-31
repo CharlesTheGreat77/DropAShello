@@ -1,6 +1,5 @@
 # DropAShello
-Simple Dropper written in C; using powershell to execute a reverse shell in memory
-
+Dropper written in C; using powershell to execute a reverse shell in memory 😈
 # Disclaimer
 I am not responsible for the usage of this utility, it is simply for researching and experimentation for myself. The user, YOU take full responsibility for your actions.
 
